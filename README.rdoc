@@ -1,0 +1,2 @@
+O projeto se refere a uma calculadora de uso de operações básicas (adição, subtração, multiplicação e divisão).
+A linguagem usada foi Python junto com a biblioteca Tkinter que é uma biblioteca padrão do Python (não precisa ser instalada).
